@@ -7,6 +7,7 @@
 	4. Recursion
 	5. Hashing
 	6. Logarithms and Exponents
+        7. Bit manipulation
 	.. and more
 
 #### Categories 
