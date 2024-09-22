@@ -3,7 +3,7 @@
 
 def check_pattern_exists(s, p):
     PRIME = 3
-
+    print(s)
     def calculate_hash(p, exp=0):
         print(f"\t\t Calculating the hash for :[{p}] and exp:{exp}")
         temp_hash = 0
@@ -46,5 +46,32 @@ def check_pattern_exists(s, p):
         window_end += 1
     return False
 
-check_pattern_exists(s="seller She sells sea shells at the sea shore", p="ell")
+check_pattern_exists(s="sesller, She sells sea shells at the sea shore", p="sea")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
